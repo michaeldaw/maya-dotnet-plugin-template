@@ -1,2 +1,2 @@
 # maya-dotnet-plugin-template
-A template for a Maya plugin in .net that can be unloaded and rebuilt without exiting Maya
+A template for a Maya plugin in .net that allows rebuilding the plugin without exiting the application.
